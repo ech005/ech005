@@ -6,6 +6,9 @@ I’m an electrical engineering student trying to get into hardware.
 
 - [Pipelined CPU](https://github.com/ech005/Pipelined-CPU)  
   A simple CPU ADAPTED FROM EEE333 LAB.
+
+- [UART](https://github.com/ech005/UART)  
+  A simple UART controller and wrapper.
 <!--
 **ech005/ech005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
