@@ -5,7 +5,7 @@ I’m an electrical engineering student trying to get into hardware.
 ## Projects
 
 - [Pipelined CPU](https://github.com/ech005/Pipelined-CPU)  
-  A simple CPU design created to explore processor architecture and digital logic.
+  A simple CPU ADAPTED FROM EEE333 LAB.
 <!--
 **ech005/ech005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
