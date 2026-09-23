@@ -1,8 +1,4 @@
-# Electrical Engineering Student
 
-I’m an electrical engineering student trying to get into hardware.
-
-## Projects
 
 
 <!--
